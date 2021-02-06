@@ -1,0 +1,10 @@
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/bin/Debug/Play.exe
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/bin/Debug/Play.pdb
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/bin/Debug/NCalc.dll
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/bin/Debug/Antlr3.Runtime.dll
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/bin/Debug/NCalc.pdb
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/obj/Debug/NCalc.Play.csprojAssemblyReference.cache
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/obj/Debug/NCalc.Play.csproj.CoreCompileInputs.cache
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/obj/Debug/NCalc.Play.csproj.CopyComplete
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/obj/Debug/Play.exe
+/Users/hungtut.com/Desktop/ncalc/Evaluant.Calculator.Play/obj/Debug/Play.pdb
